@@ -11,7 +11,7 @@ npx skills install ux-master
 Or add directly from GitHub:
 
 ```bash
-npx skills add <your-username>/agent-skills
+npx skills add duongtuananh2211/agent-skills
 ```
 
 ## Usage
@@ -50,7 +50,7 @@ ux-master/
 ## Publishing
 
 1. Push to a GitHub repository
-2. Install via `npx skills add <owner>/<repo>`
+2. Install via `npx skills add duongtuananh2211/agent-skills`
 3. Or host the file and use `npx skills add <url>`
 
 ## License

@@ -9,7 +9,7 @@ A collection of AI agent skills for frontend development and UX verification.
 Frontend UX verification — reviews UI components and pages against a comprehensive checklist covering 30 element types (buttons, forms, modals, navigation, tables, etc.) and 7 universal UX criteria. Targets WCAG 2.2 Level AA compliance.
 
 ```bash
-npx skills add <owner>/agent-skills --skill ux-master
+npx skills add duongtuananh2211/agent-skills --skill ux-master
 ```
 
 ## Structure
@@ -26,7 +26,7 @@ skills/<name>/
 Push to GitHub, then install anywhere with:
 
 ```bash
-npx skills add <owner>/agent-skills
+npx skills add duongtuananh2211/agent-skills
 ```
 
 Skills appear on [skills.sh](https://skills.sh) automatically through install telemetry — no registration needed.
