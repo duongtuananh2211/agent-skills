@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "organization": "",
+  "date": "2026-07-01",
+  "abstract": "Frontend UX verification skill that reviews UI components and pages against a comprehensive checklist covering 30 element types (buttons, forms, modals, navigation, tables, etc.) and 7 universal UX criteria. Targets WCAG 2.2 Level AA compliance. Designed for AI agents to perform automated UX audits during code review, PR verification, and component development.",
+  "references": [
+    "https://www.w3.org/TR/WCAG22/",
+    "https://webaim.org/resources/contrastchecker/",
+    "https://www.w3.org/WAI/ARIA/apg/patterns/"
+  ],
+  "keywords": [
+    "frontend",
+    "ux",
+    "accessibility",
+    "wcag",
+    "ui-review",
+    "code-review",
+    "components",
+    "a11y",
+    "responsive-design",
+    "usability"
+  ]
+}
